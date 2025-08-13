@@ -10,7 +10,7 @@
       </li>
 
       <li class="sidebar-item">
-        <a class="sidebar-link" href="{{ url('/') }}" aria-expanded="false">
+        <a class="sidebar-link" href="{{ url('/dashboard') }}" aria-expanded="false">
           <i class="ti ti-atom"></i>
           <span class="hide-menu">Dashboard</span>
         </a>
